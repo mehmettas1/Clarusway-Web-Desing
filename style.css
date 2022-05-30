@@ -53,3 +53,42 @@ margin-right: 15px;
     color:#a9508b
 }
 
+.banner {
+    background-image: url(./images/showcase.jpg);
+    height:350px;
+    background-position: center center;
+    background-size:cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+}
+
+#name{
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 20px;
+}
+
+.subscribe {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    background-color: #35424A;
+    align-items: center;
+    padding: 0 15px;
+}
+
+#newsletter {
+    color: white;
+    font-weight: 700;
+    
+}
+
+#email {
+    padding: 4px;
+    font-size: 13px;
+}
