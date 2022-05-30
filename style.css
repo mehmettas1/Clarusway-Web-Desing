@@ -144,7 +144,6 @@ footer img {
 }
 
 .services-container {
-    border: 5px solid red;
     display: flex;
     justify-content: space-between;
     background-color: #eeee;
@@ -160,6 +159,7 @@ span {
 #description {
     background-color: #DADADA;
     height: 15vh;
+    width: 70vw;
     margin-left: 20px;
     margin-bottom: 5px;
     font-size: 1.3rem;
@@ -189,6 +189,7 @@ span {
 .dark p {
     font-size: 2rem;
     font-weight: 500;
+    margin-bottom: 20px;
 
 }
 .dark form input  {
