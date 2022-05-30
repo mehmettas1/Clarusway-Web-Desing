@@ -142,3 +142,27 @@ footer img {
     width: 200px;
     margin-top: 10px;
 }
+
+.services-container {
+    border: 5px solid red;
+    display: flex;
+    background-color: #eeee;
+    height: 60vh;
+}
+span {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+
+#description {
+    background-color: #DADADA;
+    height: 15vh;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    font-size: 1.3rem;
+    padding: 10px;
+    
+
+}
