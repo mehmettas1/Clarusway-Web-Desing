@@ -55,7 +55,7 @@ margin-right: 15px;
 
 .banner {
     background-image: url(./images/showcase.jpg);
-    height:350px;
+    height:400px;
     background-position: center center;
     background-size:cover;
     color: white;
@@ -91,4 +91,54 @@ margin-right: 15px;
 #email {
     padding: 4px;
     font-size: 13px;
+}
+
+#submit{
+    background-color: #f16529;
+    color:white;
+    padding: 5px ;
+    border: none;   
+}
+
+.logo {
+    display: flex;
+    height: 300px;
+    text-align: center;
+
+}
+
+.box {
+    padding: 30px;
+    text-align: center;
+}
+
+.box img {
+width:80px;
+
+
+}
+
+.box h3 {
+    font-size: 1.4rem;
+    margin: 15px ;
+}
+
+
+.box p {
+    font-size: 1.2rem;
+}
+
+footer {
+    height: 120px;
+    background-color: #35424a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer img {
+    width: 200px;
+    margin-top: 10px;
 }
